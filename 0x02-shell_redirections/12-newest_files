@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -latp | head -n 11
+ls -lt | head -10
