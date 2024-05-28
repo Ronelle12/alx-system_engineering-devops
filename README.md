@@ -1,1 +1,1 @@
-This directory is for learning shell commands
+s folder contains Excercises for using shell
